@@ -15,11 +15,12 @@
 
 ## PUBLICATION
 
-Qingsong Liu, Yifan Hu, Lei Shi, Xinzhu Mu, Yutao Zhang, Jie Tang,“EgoNetCloud: Event-based Egocentric Dynamic Network Visualization”, *IEEE Conference on Visual Analytics Science and Technology (part of IEEE VIS), Chicago, USA, October 2015.* [[paper](//iscas-vis.github.io/researches/QingsongLiu/EgoNetCloud.pdf)]
+Qingsong Liu, Yifan Hu, Lei Shi, Xinzhu Mu, Yutao Zhang, Jie Tang,“EgoNetCloud: Event-based Egocentric Dynamic Network Visualization”, *IEEE Conference on Visual Analytics Science and Technology (part of IEEE VIS), Chicago, USA, October 2015.* [[paper](//iscas-vis.github.io/researches/QingsongLiu/EgoNetCloud.pdf)]
  
 ## MEMBER
 
 Leader: Qingsong Liu (ISCAS)
+
 Advisor: Lei Shi (ISCAS)
-Collaborator: Yifan Hu (Yahoo Labs), Xinzhu Mu(Tsinghua University), Yutao 
-Zhang(Tsinghua University), Jie Tang(Tsinghua University)
+
+Collaborator: Yifan Hu (Yahoo Labs), Xinzhu Mu(Tsinghua University), Yutao Zhang(Tsinghua University), Jie Tang(Tsinghua University)
