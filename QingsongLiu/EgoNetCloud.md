@@ -8,39 +8,18 @@
 
 ## CONTRIBUTIONS
 
-----------
-
 1. Data-driven empirical algorithms, to prune, compress and filter event-based egocentric dynamic networks into smaller but more informative abstractions
 2. EgoNetCloud visual metaphor and interactions, to display and explore both the egocentric network structure and the temporal dynamics
 3. Fast and constrained layout computation, to fulfill the requirement of the new visual metaphor and maintain fine readability
 4. Comprehensive evaluations, by a user study comparing our system with a production system, and two real-world case studies to demonstrate the effectiveness of the EgoNetCloud design
- 
+
 ## PUBLICATION
 
-----------
-
-Qingsong Liu, Yifan Hu, Lei Shi, Xinzhu Mu, Yutao Zhang, Jie Tang,“EgoNetCloud: Event-based Egocentric Dynamic Network Visualization”, *IEEE Conference on Visual Analytics Science and Technology (part of IEEE VIS), Chicago, USA, October 2015.* [[paper](./EgoNetCloud.pdf)]
+Qingsong Liu, Yifan Hu, Lei Shi, Xinzhu Mu, Yutao Zhang, Jie Tang,“EgoNetCloud: Event-based Egocentric Dynamic Network Visualization”, *IEEE Conference on Visual Analytics Science and Technology (part of IEEE VIS), Chicago, USA, October 2015.* [[paper](//iscas-vis.github.io/researches/QingsongLiu/EgoNetCloud.pdf)]
  
 ## MEMBER
 
-----------
-
 Leader: Qingsong Liu (ISCAS)
-
 Advisor: Lei Shi (ISCAS)
-
 Collaborator: Yifan Hu (Yahoo Labs), Xinzhu Mu(Tsinghua University), Yutao 
 Zhang(Tsinghua University), Jie Tang(Tsinghua University)
- 
- 
- 
- 
-
-
- service iptables status
-  298  iptables -I INPUT -s 37.1.211.155 -j DROP
-  299  vi /etc/sysconfig/iptables
-  300  iptables -I INPUT -s 37.1.211.155 -j DROP
-  301  service iptables status
-  302  /etc/rc.d/init.d/iptables save
-  303  service iptables restart
