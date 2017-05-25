@@ -6,6 +6,10 @@
 
 **Teaser Image**: EgoNetCloud interface composed of three components: control panel on the left, dynamic EgoNetCloud view in the center, and static egocentric network view on the right. While the static view in radial tree gives an overview map to the egocentric network, the EgoNetCloud illustrates both temporal, topological and contextual information of the egocentric network. Through the controlpanel, various interactions can be applied to the network data to facilitate information recall and analysis.
 
+## Demo
+
+[Youtube 25sec](https://youtu.be/owArT83e2OU)
+
 ## CONTRIBUTIONS
 
 1. Data-driven empirical algorithms, to prune, compress and filter event-based egocentric dynamic networks into smaller but more informative abstractions
